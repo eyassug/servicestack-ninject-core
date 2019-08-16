@@ -1,4 +1,4 @@
-﻿namespace ServiceStack.Ninject
+﻿namespace MediatR.CQRS.Ninject
 {
     using System;
     using System.Collections.Generic;

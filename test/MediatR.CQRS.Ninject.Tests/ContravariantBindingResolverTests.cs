@@ -1,4 +1,4 @@
-﻿namespace ServiceStack.Ninject.Tests
+﻿namespace MediatR.CQRS.Ninject.Tests
 {
     using Xunit;
     public class ContravariantBindingResolverTests
