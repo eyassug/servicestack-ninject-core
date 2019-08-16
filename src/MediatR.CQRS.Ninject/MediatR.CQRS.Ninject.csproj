@@ -7,6 +7,7 @@
   <ItemGroup>
     <PackageReference Include="mediatr.cqrs" Version="1.0.0" />
     <PackageReference Include="ninject.extensions.conventions" Version="3.3.0" />
+    <PackageReference Include="MediatR" Version="7.0.0" />
   </ItemGroup>
 
 </Project>
