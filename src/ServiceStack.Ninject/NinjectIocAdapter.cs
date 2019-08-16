@@ -1,5 +1,6 @@
 ﻿namespace ServiceStack.Ninject
 {
+    using System;
     using global::Ninject;
     using ServiceStack.Configuration;
 
@@ -7,7 +8,7 @@
     {
         private readonly IKernel _kernel;
 
-        public NinjectIocAdapter(IKernel kernel) => _kernel = kernel;
+        public NinjectIocAdapter(IKernel kernel) => _kernel = kernel ?? throw new ArgumentNullException(nameof(kernel));
 
         public T Resolve<T>()
         {
