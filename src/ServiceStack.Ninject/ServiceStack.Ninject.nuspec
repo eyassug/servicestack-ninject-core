@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ServiceStack.Ninject</id>
+    <version>1.0.0</version>
+    <title>ServiceStack.Ninject</title>
+    <authors>eyassug@gmail.com</authors>
+    <owners>eyassug@gmail.com</owners>
+    <projectUrl>https://github.com/eyassug/servicestack-ninject-core</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ninject IoC Adapter implementation for ServiceStack IContainerAdapter</description>
+    <releaseNotes>NinjectIoC Adapter implementation for ServiceStack IContainerAdapter</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>ServiceStack Ninject IoCAdapter</tags>
+  </metadata>
+</package>

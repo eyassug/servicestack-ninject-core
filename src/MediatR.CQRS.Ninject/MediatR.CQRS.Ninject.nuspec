@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MediatR.CQRS.Ninject</id>
+    <version>1.0.0</version>
+    <title>MediatR.CQRS</title>
+    <authors>eyassug@gmail.com</authors>
+    <owners>eyassug@gmail.com</owners>
+    <projectUrl>https://github.com/eyassug/servicestack-ninject-core</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ninject binding resolver and MediatR builder</description>
+    <releaseNotes>Ninject binding resolver and MediatR builder</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>MediatR Ninject CQRS CQS</tags>
+  </metadata>
+</package>
