@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>ServiceStack.Ninject</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>ServiceStack.Ninject</title>
     <authors>eyassug@gmail.com</authors>
     <owners>eyassug@gmail.com</owners>
